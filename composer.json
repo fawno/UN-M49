@@ -1,0 +1,23 @@
+{
+    "name": "fawno/un-m49",
+    "description": "Standard country or area codes for statistical use (M49)",
+    "license": "MIT",
+    "authors": [
+        {
+        "name": "Fawno",
+        "homepage": "https://github.com/fawno/UN-M49/graphs/contributors"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/fawno/UN-M49/issues",
+        "source": "https://github.com/fawno/UN-M49"
+    },
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "UN\\M49\\": "src/"
+        }
+    }
+}
