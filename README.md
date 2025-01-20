@@ -1,7 +1,7 @@
 # Standard country or area codes for statistical use (M49)
 
 [![GitHub license](https://img.shields.io/github/license/fawno/UN-M49)](https://github.com/fawno/UN-M49/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/fawno/UN-M49)](https://github.com/fawno/UN-M49/releases)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/fawno/UN-M49)](https://github.com/fawno/UN-M49/tags)
 [![Packagist](https://img.shields.io/packagist/v/fawno/un-m49)](https://packagist.org/packages/fawno/un-m49)
 [![Packagist Downloads](https://img.shields.io/packagist/dt/fawno/un-m49)](https://packagist.org/packages/fawno/un-m49/stats)
 [![GitHub issues](https://img.shields.io/github/issues/fawno/UN-M49)](https://github.com/fawno/UN-M49/issues)
